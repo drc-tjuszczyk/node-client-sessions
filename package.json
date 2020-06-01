@@ -8,7 +8,7 @@
     "url"  : "https://github.com/mozilla/node-client-sessions"
   },
   "dependencies" : {
-    "cookies" : "git@github.com:drc-tjuszczyk/cookies.git"
+    "cookies" : "git@github.com:drc-tjuszczyk/cookies.git#722f311442fb32d458c24ab7c7fc43198dca0024"
   },
   "devDependencies": {
     "vows": "0.8.1",
